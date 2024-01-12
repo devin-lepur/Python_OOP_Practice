@@ -1,0 +1,8 @@
+This is the input file for practice3
+Written by: Devin Lepur
+Purpose: To practice python methods, specifically file reading and writing
+
+The previous line is an empty line
+This is the sixth line
+this is the last line
+This is the new last line
