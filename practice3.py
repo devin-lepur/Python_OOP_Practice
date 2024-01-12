@@ -32,6 +32,8 @@ def readSpecificLine():
 
     print(fileContents[5])
 
+    myFile.close()
+
 def writeNew():
     myFile = open("practice3output.txt", "w+")
 
@@ -39,6 +41,8 @@ def writeNew():
     
     myFile.seek(0)
     print(myFile.read())
+
+    myFile.close()
 
 readWrite()
 readSpecificLine()
